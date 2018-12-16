@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    René Bult rene.bult@gmail.com
 
 # THANKS
 
