@@ -21,4 +21,4 @@ This is a simple web project, deployment can be on any web server or even a loca
 Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
-2018 Git Training
+2018 Git Training. All rights reserved.
