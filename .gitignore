@@ -1,4 +1,5 @@
 .Do_NOT_TRACK_ME
 log
 *.orig
+test/ignoreme.html
 
